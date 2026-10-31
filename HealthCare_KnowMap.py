@@ -50,11 +50,11 @@ st.markdown("""
     
     /* Auth styling */
     .auth-container {
-        background: black;
+        background: blue;
         padding: 3rem 2.5rem;
         border-radius: 16px;
         margin: 2rem auto;
-        max-width: 480px;
+        max-width: 460px;
         box-shadow: 0 10px 40px rgba(0,0,0,0.08);
         border: 1px solid #e8ecef;
     }
