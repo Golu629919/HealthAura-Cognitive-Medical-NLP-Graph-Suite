@@ -50,7 +50,7 @@ st.markdown("""
     
     /* Auth styling */
     .auth-container {
-        background: white;
+        background: black;
         padding: 3rem 2.5rem;
         border-radius: 16px;
         margin: 2rem auto;
