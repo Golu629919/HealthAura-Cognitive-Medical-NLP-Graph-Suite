@@ -7,7 +7,7 @@ It transforms raw medical text into structured insights, helping in faster diagn
 
 ✔ Medical Text Processing
 
-Extracts symptoms, diseases, medicines, and tests from clinical notes.
+Extracts symptoms, diseases, medicines, and tests from clinical notes along with treatments.
 
 Handles prescriptions, EMR records, reports, and health documents.
 
